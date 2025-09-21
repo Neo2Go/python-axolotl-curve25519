@@ -158,7 +158,7 @@ curve25519_functions[] = {
         PyModuleDef_HEAD_INIT,
         "axolotl_curve25519",
         NULL,
-        NULL,
+        -1,
         curve25519_functions,
     };
 
