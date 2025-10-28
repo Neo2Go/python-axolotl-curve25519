@@ -17,7 +17,7 @@ module_curve = Extension('axolotl_curve25519',
                       ]
                     )
 setup(
-    name='pywaves-curve25519',
+    name='python-axolotl-curve25519',
     version="0.4.1-2",
     license='GPLv3 License',
     author='Tarek Galal',
